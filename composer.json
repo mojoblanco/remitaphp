@@ -1,0 +1,16 @@
+{
+    "name": "mojoblanco/remitaphp",
+    "type": "library",
+    "description": "PHP Library for Remita",
+    "keywords": ["remita","php","payment"],
+    "homepage": "https://mojizze.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Olawale",
+            "email": "mojoblanco@gmail.com",
+            "homepage": "http://mojizze.com",
+            "role": "Developer"
+        }
+    ]
+}
