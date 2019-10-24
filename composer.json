@@ -1,7 +1,7 @@
 {
     "name": "mojoblanco/remitaphp",
     "type": "library",
-    "description": "PHP Library for Remita",
+    "description": "PHP Library for Remita Interbank Transfer Service",
     "keywords": ["remita","php","payment"],
     "homepage": "https://mojizze.com",
     "license": "MIT",
